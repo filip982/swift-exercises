@@ -1,4 +1,3 @@
-import Cocoa
 import Foundation
 import XCTest
 
@@ -26,7 +25,7 @@ class TestCase: XCTestCase {
     }
 
     func test_example_three() {
-        
+
     }
 }
 
